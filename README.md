@@ -1,6 +1,5 @@
 ### Hi there, I'm Anas Abdulrazzak Salah👋
 
-<img src="https://komarev.com/ghpvc/?username=EngAnasSalah&color=blueviolet&style=flat-square" alt="Profile Views" />
 
 ---
 
